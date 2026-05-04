@@ -1,8 +1,10 @@
 # MLOps Lab CIE — TestGenAI Coverage Predictor
 
+**Name:** Anushree Shetty
+**USN:** 1BM23AI030
 **Course:** MLOps (24AM6AEMLO)  
 **College:** BMS College of Engineering  
-**Semester:** VII — 2026 Even  
+**Semester:** VI — 2026 Even  
 
 ---
 

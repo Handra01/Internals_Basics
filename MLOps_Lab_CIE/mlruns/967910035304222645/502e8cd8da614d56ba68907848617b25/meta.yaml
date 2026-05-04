@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Anushree Shetty/Desktop/LAB_CIE/Internal_Basics/MLOps_Lab_CIE/mlruns/967910035304222645/502e8cd8da614d56ba68907848617b25/artifacts
+end_time: 1777868917670
+entry_point_name: ''
+experiment_id: '967910035304222645'
+lifecycle_stage: active
+run_id: 502e8cd8da614d56ba68907848617b25
+run_name: trial-n200-d5-s2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868917615
+status: 3
+tags: []
+user_id: Anushree Shetty

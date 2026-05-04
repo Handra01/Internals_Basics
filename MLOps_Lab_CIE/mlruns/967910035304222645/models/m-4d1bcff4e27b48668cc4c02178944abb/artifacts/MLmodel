@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/Anushree Shetty/Desktop/LAB_CIE/Internal_Basics/MLOps_Lab_CIE/mlruns/967910035304222645/models/m-4d1bcff4e27b48668cc4c02178944abb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.11.1
+model_id: m-4d1bcff4e27b48668cc4c02178944abb
+model_size_bytes: 202589
+model_uuid: m-4d1bcff4e27b48668cc4c02178944abb
+prompts: null
+run_id: b2a76ca360e342baae83e9db6963c847
+utc_time_created: '2026-05-04 04:07:38.801208'

@@ -1,0 +1,16 @@
+creation_timestamp: 1777867669494
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1777867669494
+model_id: m-4d1bcff4e27b48668cc4c02178944abb
+name: testgenai-coverage-model
+run_id: b2a76ca360e342baae83e9db6963c847
+run_link: null
+source: models:/m-4d1bcff4e27b48668cc4c02178944abb
+status: READY
+status_message: null
+storage_location: file:C:/Users/Anushree Shetty/Desktop/LAB_CIE/Internal_Basics/MLOps_Lab_CIE/mlruns/967910035304222645/models/m-4d1bcff4e27b48668cc4c02178944abb/artifacts
+user_id: null
+version: 1
+workspace: default

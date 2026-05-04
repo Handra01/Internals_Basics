@@ -1,0 +1,22 @@
+{
+    "experiment_name": "testgenai-coverage-pct",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 1.063981908558759,
+            "rmse": 1.3103823663227365,
+            "r2": 0.9891307840990067,
+            "mape": 2.047171631868746
+        },
+        {
+            "name": "RandomForest",
+            "mae": 3.494059999999942,
+            "rmse": 4.077186838740613,
+            "r2": 0.8947739271613107,
+            "mape": 5.867679498379837
+        }
+    ],
+    "best_model": "LinearRegression",
+    "best_metric_name": "mae",
+    "best_metric_value": 1.063981908558759
+}

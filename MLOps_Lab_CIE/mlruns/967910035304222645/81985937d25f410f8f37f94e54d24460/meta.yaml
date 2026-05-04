@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Anushree Shetty/Desktop/LAB_CIE/Internal_Basics/MLOps_Lab_CIE/mlruns/967910035304222645/81985937d25f410f8f37f94e54d24460/artifacts
+end_time: 1777868733964
+entry_point_name: ''
+experiment_id: '967910035304222645'
+lifecycle_stage: active
+run_id: 81985937d25f410f8f37f94e54d24460
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868733879
+status: 3
+tags: []
+user_id: Anushree Shetty

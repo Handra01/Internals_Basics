@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Anushree Shetty/Desktop/LAB_CIE/Internal_Basics/MLOps_Lab_CIE/mlruns/967910035304222645/models/m-43d594c4ff4a4f259c28e2ec5813fe6a/artifacts
+creation_timestamp: 1777868964046
+experiment_id: '967910035304222645'
+last_updated_timestamp: 1777868968375
+model_id: m-43d594c4ff4a4f259c28e2ec5813fe6a
+model_type: null
+name: promoted_model
+source_run_id: 80c70a43f6ff48e99de22b1e9c541a34
+status: 2
+status_message: null

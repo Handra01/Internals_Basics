@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Anushree Shetty/Desktop/LAB_CIE/Internal_Basics/MLOps_Lab_CIE/mlruns/967910035304222645/a02d4032264440a58afe8ad81c49c389/artifacts
+end_time: 1777868733749
+entry_point_name: ''
+experiment_id: '967910035304222645'
+lifecycle_stage: active
+run_id: a02d4032264440a58afe8ad81c49c389
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868733682
+status: 3
+tags: []
+user_id: Anushree Shetty

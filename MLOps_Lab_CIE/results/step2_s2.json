@@ -1,0 +1,13 @@
+{
+    "search_type": "grid",
+    "n_folds": 3,
+    "total_trials": 18,
+    "best_params": {
+        "max_depth": 5,
+        "min_samples_split": 2,
+        "n_estimators": 50
+    },
+    "best_mae": 4.84864933333332,
+    "best_cv_mae": 12.210597142857138,
+    "parent_run_name": "tuning-testgenai"
+}
